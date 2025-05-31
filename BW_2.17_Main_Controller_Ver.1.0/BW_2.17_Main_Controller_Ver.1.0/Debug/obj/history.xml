@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -D__FPU_USED -ID:\ENGINEERING STUFF(s)\2017 - PROJECT YUME 3.17\LATEST SOFTWARE\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib -ID:\ENGINEERING STUFF(s)\2017 - PROJECT YUME 3.17\LATEST SOFTWARE\BW_2.17_Main_Controller_Ver.1.0 -ID:\ENGINEERING STUFF(s)\2017 - PROJECT YUME 3.17\LATEST SOFTWARE -ID:\ENGINEERING STUFF(s)\2017 - PROJECT YUME 3.17\LATEST SOFTWARE\BW_2.17_Main_Controller_Ver.1.0\BW_Library -ID:\ENGINEERING STUFF(s)\2017 - PROJECT YUME 3.17\LATEST SOFTWARE\BW_2.17_Main_Controller_Ver.1.0\cmsis -ID:\ENGINEERING STUFF(s)\2017 - PROJECT YUME 3.17\LATEST SOFTWARE\BW_2.17_Main_Controller_Ver.1.0\cmsis_boot -ID:\ENGINEERING STUFF(s)\2017 - PROJECT YUME 3.17\LATEST SOFTWARE\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib\include">
+      <target file="bw_dynamixel_xl_320.o" lastModified="1596ab740ce">
+         <source file="..\..\..\BW_Library\bw_dynamixel_xl_320.c" lastModified="1596a9f4492"/>
+      </target>
+      <target file="syscalls.o" lastModified="1596a9d936a">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="15926ea3dbe"/>
+      </target>
+      <target file="misc.o" lastModified="1596a9da0cb">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="15926ea2774"/>
+      </target>
+      <target file="bw_dynamixel_ax_12a.o" lastModified="1596ab6fd55">
+         <source file="..\..\..\BW_Library\bw_dynamixel_ax_12a.c" lastModified="1596aa4b8de"/>
+      </target>
+      <target file="bw_interrupt_monitor.o" lastModified="1596ab747ec">
+         <source file="..\..\..\BW_Library\bw_interrupt_monitor.c" lastModified="1592713cafb"/>
+      </target>
+      <target file="bw_tcs3200_receiver.o" lastModified="1596ab754b5">
+         <source file="..\..\..\BW_Library\bw_tcs3200_receiver.c" lastModified="1592713c80b"/>
+      </target>
+      <target file="bw_sound_activation.o" lastModified="1596ab7181d">
+         <source file="..\..\..\BW_Library\bw_sound_activation.c" lastModified="1592713c88a"/>
+      </target>
+      <target file="bw_user_interface.o" lastModified="1596a9d4fea">
+         <source file="..\..\..\BW_Library\bw_user_interface.c" lastModified="1592713c6f1"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="1596a9db0d8">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15926ec4046"/>
+      </target>
+      <target file="bw_usart_comm.o" lastModified="1596ab6ffc6">
+         <source file="..\..\..\BW_Library\bw_usart_comm.c" lastModified="1592713c74f"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="1596a9d8e8c">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15926ead311"/>
+      </target>
+      <target file="bw_lcd.o" lastModified="1596a9d9f7f">
+         <source file="..\..\..\BW_Library\bw_lcd.c" lastModified="1592713cabc"/>
+      </target>
+      <target file="bw_tpa_servo.o" lastModified="1596ab745dc">
+         <source file="..\..\..\BW_Library\bw_tpa_servo.c" lastModified="1592713c7bd"/>
+      </target>
+      <target file="bw_pid_controller.o" lastModified="1596ab73c9f">
+         <source file="..\..\..\BW_Library\bw_pid_controller.c" lastModified="1592bb1c6da"/>
+      </target>
+      <target file="bw_infrared_proximity.o" lastModified="1596ab73a52">
+         <source file="..\..\..\BW_Library\bw_infrared_proximity.c" lastModified="1592713cb2a"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="1596a9d3e0d">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="15926eb3224"/>
+      </target>
+      <target file="bw_articulated_manipulator.o" lastModified="1596ab6f838">
+         <source file="..\..\..\BW_Library\bw_articulated_manipulator.c" lastModified="15969c2423d"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="1596a9d5722">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15926ead34f"/>
+      </target>
+      <target file="stm32f4xx_adc.o" lastModified="1596a9d615e">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="15926eb16ad"/>
+      </target>
+      <target file="bw2017_algorithm.o" lastModified="1596ab73684">
+         <source file="..\..\..\BW_Library\bw2017_algorithm.c" lastModified="15964d0374e"/>
+      </target>
+      <target file="bw_cmps11.o" lastModified="1596ab74c0a">
+         <source file="..\..\..\BW_Library\bw_cmps11.c" lastModified="1592713ccfe"/>
+      </target>
+      <target file="bw_systick_delay.o" lastModified="1596a9d9686">
+         <source file="..\..\..\BW_Library\bw_systick_delay.c" lastModified="1592713c83c"/>
+      </target>
+      <target file="bw_bumper.o" lastModified="1596ab71c11">
+         <source file="..\..\..\BW_Library\bw_bumper.c" lastModified="1592713cd28"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="1596a9d5183">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15926ee2320"/>
+      </target>
+      <target file="bw_UV-TRON.o" lastModified="1596ab74303">
+         <source file="..\..\..\BW_Library\bw_UV-TRON.c" lastModified="1592713c636"/>
+      </target>
+      <target file="bw_hexapod_cmd.o" lastModified="1596ab70fa9">
+         <source file="..\..\..\BW_Library\bw_hexapod_cmd.c" lastModified="15969bcb848"/>
+      </target>
+      <target file="bw_mpu6050.o" lastModified="1596ab70277">
+         <source file="..\..\..\BW_Library\bw_mpu6050.c" lastModified="1592713ca30"/>
+      </target>
+      <target file="bw_bldc_fan.o" lastModified="1596ab73865">
+         <source file="..\..\..\BW_Library\bw_bldc_fan.c" lastModified="1592713cd6d"/>
+      </target>
+      <target file="bw_i2c_lcd.o" lastModified="1596ab70478">
+         <source file="..\..\..\BW_Library\bw_i2c_lcd.c" lastModified="1592713cb58"/>
+      </target>
+      <target file="bw_utilities.o" lastModified="1596ab73eaa">
+         <source file="..\..\..\BW_Library\bw_utilities.c" lastModified="1592713c684"/>
+      </target>
+      <target file="bw_global_var.o" lastModified="1596ab6fb56">
+         <source file="..\..\..\BW_Library\bw_global_var.c" lastModified="15969d746d9"/>
+      </target>
+      <target file="bw_rotary_switch.o" lastModified="1596ab71195">
+         <source file="..\..\..\BW_Library\bw_rotary_switch.c" lastModified="1592713c955"/>
+      </target>
+      <target file="stm32f4xx_i2c.o" lastModified="1596a9d9df2">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="15926eb010e"/>
+      </target>
+      <target file="bw_flame_sensor.o" lastModified="1596ab75757">
+         <source file="..\..\..\BW_Library\bw_flame_sensor.c" lastModified="1592713cc53"/>
+      </target>
+      <target file="bw_gy_85.o" lastModified="1596ab74f26">
+         <source file="..\..\..\BW_Library\bw_gy_85.c" lastModified="1592713cbe5"/>
+      </target>
+      <target file="bw_ping_receiver.o" lastModified="1596ab71671">
+         <source file="..\..\..\BW_Library\bw_ping_receiver.c" lastModified="1592713c984"/>
+      </target>
+      <target file="main.o" lastModified="1596ab713fd">
+         <source file="..\..\..\main.c" lastModified="1596a9b3906"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="1596a9d921e">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15926ee23ec"/>
+      </target>
+      <target file="bw_extinguisher.o" lastModified="1596ab71a4b">
+         <source file="..\..\..\BW_Library\bw_extinguisher.c" lastModified="1592713cc72"/>
+      </target>
+   </processor>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -IE:\Robotics\2017 Team\Program\ALGO BARU\BW_2.17_Main_Controller_Ver.1.0 -IE:\Robotics\2017 Team\Program\ALGO BARU\BW_2.17_Main_Controller_Ver.1.0\cmsis -IE:\Robotics\2017 Team\Program\ALGO BARU\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib -IE:\Robotics\2017 Team\Program\ALGO BARU\BW_2.17_Main_Controller_Ver.1.0\cmsis_boot -IE:\Robotics\2017 Team\Program\ALGO BARU -IE:\Robotics\2017 Team\Program\ALGO BARU\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib\include -IE:\Robotics\2017 Team\Program\ALGO BARU\BW_2.17_Main_Controller_Ver.1.0\BW_Library">
+      <target file="lcd.o" lastModified="1592714090f">
+         <source file="..\..\..\BW_Library\lcd.c" lastModified="158b270c220"/>
+      </target>
+      <target file="delay.o" lastModified="1592713e15e">
+         <source file="..\..\..\BW_Library\delay.c" lastModified="158b270c220"/>
+      </target>
+      <target file="bw_bumper_exti.o" lastModified="1592716878c">
+         <source file="..\..\..\BW_Library\bw_bumper_exti.c" lastModified="1592713cd3e"/>
+      </target>
+      <target file="test.o" lastModified="159271401ed">
+         <source file="..\..\..\BW_Library\test.c" lastModified="158b270c220"/>
+      </target>
+      <target file="bw_sharp_ir.o" lastModified="15927169e58">
+         <source file="..\..\..\BW_Library\bw_sharp_ir.c" lastModified="1592713c8c8"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.debug.ui.ExpressionView"/>
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+<orientation position="512" view="org.coocox.component.ui.Help"/>
+</fastViewData>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.coocox.welcome.ui.WelcomePage" name="" partName="welcome" title="welcome" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.welcome.ui.WelcomePage/>
+</input>
+</editor>
+<editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">&#x0A;<subPage horizontalPosition="0" selectedItemId="513" subPageIndex="2" verticalPosition="420"/>
+</input>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/main.c" title="main.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3427" selectionTopPixel="1905"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw2017_algorithm.c" partName="bw2017_algorithm.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c" title="bw2017_algorithm.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2080" selectionTopPixel="1346"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_pid_controller.c" partName="bw_pid_controller.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.c" title="bw_pid_controller.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12348" selectionTopPixel="6713"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_pid_controller.h" partName="bw_pid_controller.h" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.h" title="bw_pid_controller.h" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="37" selectionOffset="1111" selectionTopPixel="390"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_global_var.c" partName="bw_global_var.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c" title="bw_global_var.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="17722" selectionTopPixel="12887"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_hexapod_cmd.h" partName="bw_hexapod_cmd.h" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.h" title="bw_hexapod_cmd.h" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="3280" selectionTopPixel="845"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_hexapod_cmd.c" partName="bw_hexapod_cmd.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.c" title="bw_hexapod_cmd.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="55017" selectionTopPixel="27532"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_usart_comm.c" partName="bw_usart_comm.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_usart_comm.c" title="bw_usart_comm.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_usart_comm.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_usart_comm.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="19586" selectionTopPixel="6694"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_flame_sensor.c" partName="bw_flame_sensor.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.c" title="bw_flame_sensor.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3584" selectionTopPixel="1666"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_flame_sensor.h" partName="bw_flame_sensor.h" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.h" title="bw_flame_sensor.h" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw2017_algorithm.h" partName="bw2017_algorithm.h" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.h" title="bw2017_algorithm.h" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="6105" selectionTopPixel="4691"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_tcs3200_receiver.c" partName="bw_tcs3200_receiver.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_tcs3200_receiver.c" title="bw_tcs3200_receiver.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_tcs3200_receiver.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_tcs3200_receiver.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="31" selectionOffset="14470" selectionTopPixel="9928"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_articulated_manipulator.c" partName="bw_articulated_manipulator.c" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_articulated_manipulator.c" title="bw_articulated_manipulator.c" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_articulated_manipulator.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_articulated_manipulator.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3679" selectionTopPixel="1601"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_global_var.h" partName="bw_global_var.h" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.h" title="bw_global_var.h" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_ping_receiver.h" partName="bw_ping_receiver.h" path="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.h" title="bw_ping_receiver.h" tooltip="E:/Robotics/2017 Team/Program/ALGO BARU/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="959" selectionTopPixel="698"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="15">
+<expanded>
+<element path="/BW_2.17_Main_Controller_Ver.1.0"/>
+<element path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library"/>
+</expanded>
+<selection>
+<element path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_usart_comm.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.coocox.component.ui.ComponentView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.coocox.component.ui.Help"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1430198">
+<folder activePageID="org.coocox.component.ui.ComponentView" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="Components"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1430198">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1821f9c" ratio="0.7435456" ratioLeft="432" ratioRight="149" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1430198">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.39813375" ratioLeft="256" ratioRight="387" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1430198"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@15a49cb" ratio="0.79292166" ratioLeft="1053" ratioRight="275" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="Help"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44913927" ratioLeft="287" ratioRight="352" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1db12a" ratio="0.36932707" ratioLeft="236" ratioRight="403" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1430198">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_tcs3200_receiver.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_articulated_manipulator.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_usart_comm.c"/>
+</editors>
+<item historyLabel="bw_tcs3200_receiver.c" index="3">
+<position info="not_deleted" x="8975" y="30"/>
+</item>
+<item historyLabel="bw_tcs3200_receiver.c" index="3">
+<position info="not_deleted" x="14470" y="31"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="10701" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.h" index="2">
+<position info="not_deleted" x="3292" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12514" y="3"/>
+</item>
+<item historyLabel="bw_articulated_manipulator.c" index="4">
+<position info="not_deleted" x="5529" y="3"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12514" y="3"/>
+</item>
+<item historyLabel="bw_articulated_manipulator.c" index="4">
+<position info="not_deleted" x="5529" y="3"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12514" y="3"/>
+</item>
+<item historyLabel="bw_articulated_manipulator.c" index="4">
+<position info="not_deleted" x="5529" y="3"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12514" y="3"/>
+</item>
+<item historyLabel="bw_articulated_manipulator.c" index="4">
+<position info="not_deleted" x="5529" y="3"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12514" y="3"/>
+</item>
+<item historyLabel="bw_articulated_manipulator.c" index="4">
+<position info="not_deleted" x="3679" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12481" y="3"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12712" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.h" index="2">
+<position info="not_deleted" x="3244" y="12"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.h" index="2">
+<position info="not_deleted" x="3290" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.h" index="2">
+<position info="not_deleted" x="3254" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="144668" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.h" index="2">
+<position info="not_deleted" x="3244" y="12"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12712" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12272" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.h" index="2">
+<position info="not_deleted" x="3280" y="12"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12272" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12481" y="3"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="13330" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="14350" y="3"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="12481" y="3"/>
+</item>
+<item historyLabel="bw_global_var.h" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="bw_global_var.c" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="8">
+<position info="not_deleted" x="144668" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="8">
+<position info="not_deleted" x="2080" y="0"/>
+</item>
+<item historyLabel="bw_ping_receiver.c" index="9">
+<position info="not_deleted" x="6728" y="0"/>
+</item>
+<item historyLabel="bw_ping_receiver.h" index="10">
+<position info="not_deleted" x="959" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="8">
+<position info="not_deleted" x="2080" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="2816" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="5949" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="3077" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="54986" y="22"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="55027" y="0"/>
+</item>
+<item historyLabel="bw_hexapod_cmd.h" index="11">
+<position info="not_deleted" x="3280" y="12"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="3077" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="3544" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="3025" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="3018" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="3468" y="39"/>
+</item>
+<item historyLabel="bw_usart_comm.c" index="12">
+<position info="not_deleted" x="19586" y="0"/>
+</item>
+<item active="true" historyLabel="main.c" index="7">
+<position info="not_deleted" x="3427" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_ping_receiver.h" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.h">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_ping_receiver.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_ping_receiver.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_global_var.h" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.h">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_articulated_manipulator.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_articulated_manipulator.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_articulated_manipulator.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_tcs3200_receiver.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_tcs3200_receiver.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_tcs3200_receiver.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw2017_algorithm.h" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.h">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_flame_sensor.h" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.h">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_flame_sensor.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_flame_sensor.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_usart_comm.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_usart_comm.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_usart_comm.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_hexapod_cmd.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_hexapod_cmd.h" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.h">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_hexapod_cmd.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_global_var.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_pid_controller.h" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.h">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_pid_controller.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_pid_controller.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw2017_algorithm.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c"/>
+</file>
+</mruList>
+</workbench>
